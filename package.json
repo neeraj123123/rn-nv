@@ -1,6 +1,6 @@
 {
     "name": "react-native-notifyvisitors",
-    "version": "3.3.9",
+    "version": "3.4.0",
     "description": "React Native Notifyvisitors SDK for push notifications and surveys",
     "main": "index.js",
     "scripts": {
